@@ -12,6 +12,7 @@ ZinnyChats is a chat web application built using React, Redux, and RapidAPI.
 3. User can chat with other users in real time.
 4. User can send attachments.
 5. User can send stickers/giphy.
+6. User can create group chats and add other users to it.
 
 ## See the demo
 
