@@ -17,3 +17,4 @@ ZinnyChats is a chat web application built using React, Redux, and RapidAPI.
 ## See the demo
 
 You can view the demo on the browser [zinnychats](https://zinnychats.netlify.app).
+
