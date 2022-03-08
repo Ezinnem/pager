@@ -1,5 +1,5 @@
 # ZinnyChats
-A chat web application bootstrapped with React, Node.js
+A chat web application bootstrapped with React, Node.js and Express
 
 ## Description:
 
