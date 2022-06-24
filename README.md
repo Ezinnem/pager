@@ -1,4 +1,4 @@
-# ZinnyChat
+# ZinnyChat 
 A chat web application bootstrapped with React, Node.js and Express.
 
 ## Description:
@@ -6,6 +6,7 @@ A chat web application bootstrapped with React, Node.js and Express.
 ZinnyChats is a chat web application built using React, Redux, and RapidAPI.
 
 ## Features:
+
 1. User can sign up.
 2. Users can log in and log out.
 3. Users can chat with other users in real-time.
