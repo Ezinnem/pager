@@ -2,7 +2,6 @@
 A chat web application bootstrapped with React, Node.js and Express.
 
 ## Description:
-
 ZinnyChats is a chat web application built using React, Redux, and RapidAPI.
 
 ## Features:
