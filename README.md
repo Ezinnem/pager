@@ -14,5 +14,4 @@ ZinnyChats is a chat web application built using React, Redux, and RapidAPI.
 6. Users can create group chats and add other users to them.
 
 ### See the demo
-
 You can view the demo on the browser [zinnychats](https://zinnychats.netlify.app).
